@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 ```
 
-## 页面结构
+## 主要页面结构
 
 ```
 --src
