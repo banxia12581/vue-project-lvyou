@@ -1,0 +1,65 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "从军大衣到比基尼，横跨52℃的三亚阿凡达之旅",
+      "url": "https://lvyou.baidu.com/notes/ec09040706c25c2591f045b3"
+    },
+    {
+      "id": 2,
+      "title": "才相见 已怀念---六月的呼伦贝尔草原",
+      "url": "https://lvyou.baidu.com/notes/b6ce2114ea6d9fc9e4359b21"
+    },
+    {
+      "id": 3,
+      "title": "轻声细语，邂逅美丽厦门！",
+      "url": "https://lvyou.baidu.com/notes/7c353d0992ad52baf344f23b"
+    },
+    {
+      "id": 4,
+      "title": "星星的流转，那是在时间长河中新的启点--拉萨故事",
+      "url": "https://lvyou.baidu.com/notes/3d0c49d4369578284c376fef"
+    }
+  ],
+  "login": {
+    "username": "yudongdong",
+    "userId": 123123
+  },
+  "getPrice": {
+    "amount": 3299
+  },
+  "createOrder": {
+    "orderId": "6djk979"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "趣玩周边",
+        "travelType": "周边跟团",
+        "jingType": "温泉滑雪",
+        "buyNum": 2,
+        "date": "2016-10-10",
+        "amount": "￥3299"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "自营出境日",
+        "travelType": "意大利",
+        "jingType": "古堡",
+        "buyNum": 16,
+        "date": "2015-10-10",
+        "amount": "￥11299"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "红包到手",
+        "travelType": "300元",
+        "jingType": "三个月",
+        "buyNum": 3,
+        "date": "2016-8-3",
+        "amount": "￥2299"
+      }
+    ]
+  }
+}
